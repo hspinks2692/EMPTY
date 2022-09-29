@@ -10,5 +10,11 @@
       "live": "https://bravado-project.herokuapp.com/bravado/",
       "git": "https://github.com/javenegas1/Bravado",
       "image": "https://i.imgur.com/xcZD2u3.png"
+    },
+    {
+      "name": "Anonimusic",
+      "live": "https://vocal-daffodil-44e825.netlify.app/",
+      "git": "https://github.com/hspinks2692/Frontend-Branch",
+      "image": "https://i.imgur.com/zZCVN2f.png"
     }
   ]
