@@ -16,5 +16,11 @@
       "live": "https://vocal-daffodil-44e825.netlify.app/",
       "git": "https://github.com/hspinks2692/Frontend-Branch",
       "image": "https://i.imgur.com/zZCVN2f.png"
+    },
+    {
+      "name": "The Gathering",
+      "live": "https://mtg-deck-builder-proto.herokuapp.com/",
+      "git": "https://github.com/hspinks2692/mtg_frontend",
+      "image": "https://i.imgur.com/jit5Pye.png"
     }
   ]
