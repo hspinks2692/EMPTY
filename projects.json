@@ -10,7 +10,7 @@
       "name": "The Gathering",
       "live": "https://mtg-deck-builder-proto.herokuapp.com/",
       "git": "https://github.com/hspinks2692/mtg_frontend",
-      "description": "Allows you to search a database of Magic the Gathering Cards based on user inputted search criteria.",
+      "description": "Allows you to search a database of Magic the Gathering Cards based user provided input.",
       "image": "https://i.imgur.com/jit5Pye.png"
     }
   ]
